@@ -1,6 +1,6 @@
 # About Me
 
-Hi I'm Theo, a Sophomore at BU majoring in CS and minoring in Japanese. My favorite CS field is the overlap between linguistics and CS, 
+Hi I'm Theo, a Junior at BU majoring in CS and minoring in Japanese. My favorite CS field is the overlap between linguistics and CS, 
 but I'll always have a soft spot for game development. Check out my <a href="https://talcgames.itch.io/" target="_blank" rel="noopener noreferrer">itch.io</a> page for my game jam stuff.
 
 <!---

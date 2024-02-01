@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theo-chen-08bb12224) 
 [![Itch.io](https://img.shields.io/badge/itch.io-%23FF4500.svg?logo=itch.io&logoColor=white)](https://itch.io/profile/talcgames)
 
-Hi I'm Theo, a Junior at BU majoring in CS and minoring in Japanese. I'm most interested in the overlap between linguistics and CS, 
+Hi I'm Theo, a 3rd-Year at BU majoring in CS and minoring in Japanese. I'm most interested in the overlap between linguistics and CS, 
 but I'll always have a soft spot for game development. Check out my itch.io page for my game jam stuff. I really like stationery too, so you can check out my stationery blog at <a href="https://theosbungu.com/" target="_blank" rel="noopener noreferrer">theosbungu.com</a>.
 
 # GitHub Stats:

@@ -1,10 +1,7 @@
 # About Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theo-chen-08bb12224) 
-[![Itch.io](https://img.shields.io/badge/itch.io-%23FF4500.svg?logo=itch.io&logoColor=white)](https://itch.io/profile/talcgames)
+<a href="https://theoc.dev/" target="_blank" rel="noopener noreferrer">Profile Website</a>
 
-<a href="https://theoc.dev/" target="_blank" rel="noopener noreferrer">theoc.dev</a>
-
-Hi, I'm Theo, a 3rd-year Majoring in Computer Science and Minoring in Japanese at BU. I'm most experienced in full-stack development, and I'm also interested in the overlap between linguistics and CS. However, I'll always have a soft spot for game development. Check out my itch.io page for my game jam stuff. I really like stationery too, so you can check out my stationery blog at <a href="https://theosbungu.com/" target="_blank" rel="noopener noreferrer">theosbungu.com</a>.
+Hi, I'm Theo, a 3rd-year Majoring in Computer Science and Minoring in Japanese at BU. I'm most experienced in full-stack development, and I'm also interested in the overlap between linguistics and CS. However, I'll always have a soft spot for game development. Check out my itch.io page for my game jam stuff.
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theoc3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

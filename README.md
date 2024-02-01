@@ -1,7 +1,7 @@
 # About Me:
-<a href="https://theoc.dev/" target="_blank" rel="noopener noreferrer">Profile Website</a>
-
 Hi, I'm Theo, a 3rd-year Majoring in Computer Science and Minoring in Japanese at BU. I'm most experienced in full-stack development, and I'm also interested in the overlap between linguistics and CS. However, I'll always have a soft spot for game development. Check out my itch.io page for my game jam stuff.
+
+<a href="https://theoc.dev/" target="_blank" rel="noopener noreferrer">Profile Website</a>
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theoc3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

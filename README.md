@@ -1,7 +1,9 @@
 # About Me:
-Hi, I'm Theo, a 3rd-year Majoring in Computer Science and Minoring in Japanese at BU. I'm most experienced in full-stack development, and I'm also interested in the overlap between linguistics and CS. However, I'll always have a soft spot for game development. Check out my itch.io page for my game jam stuff.
+Hi, I'm Theo, a 3rd-year Majoring in Computer Science and Minoring in Japanese at BU. I'm most experienced in full-stack development, data science, and machine learning. 
 
-<a href="https://theoc.dev/" target="_blank" rel="noopener noreferrer">theoc.dev</a>
+I'm currently seeking Summer 2024 internship roles in full-stack software engineering, data analysis, machine learning, or game development!
+
+My favorite niche is the overlap between linguistics and CS, i.e. the field of natural language processing. However, I'll always have a soft spot for game development. Check out my full project list here: <a href="https://theoc.dev/" target="_blank" rel="noopener noreferrer">theoc.dev</a>
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theoc3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

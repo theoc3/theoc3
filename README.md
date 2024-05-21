@@ -1,7 +1,7 @@
 # About Me:
 Hi, I'm Theo, a 3rd-year Majoring in Computer Science and Minoring in Japanese at BU. I'm most experienced in full-stack development, data science, and machine learning. 
 
-I'm currently seeking Summer 2024 internship roles in full-stack software engineering, data analysis, machine learning, or game development!
+I'm currently interning at the Client Engineering Team at GitStart.
 
 My favorite niche is the overlap between linguistics and CS, i.e. the field of natural language processing. However, I'll always have a soft spot for game development. Check out my full project list here: <a href="https://theoc.dev/" target="_blank" rel="noopener noreferrer">theoc.dev</a>
 

@@ -1,7 +1,7 @@
 # About Me:
-Hi, I'm Theo, a 3rd-year Majoring in Computer Science and Minoring in Japanese at BU. I'm most experienced in full-stack development, data science, and machine learning. 
+Hi, I'm Theo, a 4th-year Majoring in Computer Science and Minoring in Japanese at BU. I'm most experienced in full-stack development, but want to learn more about data science and machine learning. 
 
-I'm currently interning at the Client Engineering Team at GitStart.
+I'm currently studying abroad in Kyoto, Japan through Columbia University's KCJS program at Doshisha University.
 
 My favorite niche is the overlap between linguistics and CS, i.e. the field of natural language processing. However, I'll always have a soft spot for game development. Check out my full project list here: <a href="https://theoc.dev/" target="_blank" rel="noopener noreferrer">theoc.dev</a>
 

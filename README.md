@@ -1,7 +1,9 @@
 # About Me:
-Hi, I'm Theo, a 4th-year Majoring in Computer Science and Minoring in Japanese at BU. I'm most experienced in full-stack development, but want to learn more about data science and machine learning. 
+Hi! I'm Theo, and I'm passionate about how we can use technology to enhance our ability to learn languages!
 
-I'm currently studying abroad in Kyoto, Japan through Columbia University's KCJS program at Doshisha University.
+I'm currently rearching the application of technology like large language models to assist language learning as a Research Assistant at the Boston University Second Language Acquisition Lab.
+
+I was the former President of the Boston University Japanese Student Association, and recently studyied abroad in Kyoto, Japan at Doshisha University with Columbia University's KCJS Program.
 
 My favorite niche is the overlap between linguistics and CS, i.e. the field of natural language processing. However, I'll always have a soft spot for game development. Check out my full project list here: <a href="https://theoc.dev/" target="_blank" rel="noopener noreferrer">theoc.dev</a>
 

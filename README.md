@@ -1,7 +1,7 @@
 # About Me:
 Hi! I'm Theo, and I'm passionate about how we can use technology to enhance our ability to learn languages!
 
-I'm currently rearching the application of technology like large language models to assist language learning as a Research Assistant at the Boston University Second Language Acquisition Lab.
+Check out my recent [project](https://github.com/theoc3/jp-verb-classifier) applying RNN models to the classification of Japanese Verbs
 
 I was the former President of the Boston University Japanese Student Association, and recently studyied abroad in Kyoto, Japan at Doshisha University with Columbia University's KCJS Program.
 
